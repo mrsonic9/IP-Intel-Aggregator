@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ### Run the Tool
 ```bash
-python ip_intel.py
+python3 ip_intel.py
 ```
 
 ### Interactive Prompts
